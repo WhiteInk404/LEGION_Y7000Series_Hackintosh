@@ -6,7 +6,7 @@
 
 [中文版](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh/blob/master/README.md) | [English](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh/blob/master/README-en.md) | [Español](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/README-es.md)
 
-本文的目的是让 LENOVO LEGION Y7000/Y7000P-2018、Y7000/Y7000P-2019、Y530、Y540 系列笔记本电脑尽量完美的使用上 MacOS，未来可能会支持 Y7000/Y7000P-2020，以及可能存在的国际版 Y550。
+本文的目的是让 LENOVO LEGION Y7000/Y7000P-2018、Y7000/Y7000P-2019、Y7000/Y7000P-2020、Y530、Y540、Y545 系列笔记本电脑尽量完美的使用上 MacOS。
 
 注意：此系列笔记本电脑没有WiFi白名单，可以更换任意网卡，但强烈不推荐 DW1820A。
 
@@ -15,7 +15,7 @@
 最后发布的版本是 v3.0.2，前往 [Release Page](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh/releases) 下载即可。
 
 ## 你需要什么
-- 下载好的 MacOS 镜像（支持 10.13.6 - 10.15.4 的镜像安装）
+- 下载好的 MacOS 镜像（支持 10.13.6 - 10.15.5 的镜像安装）
 - 16GB U盘
 - 8代处理安装 10.15.x 需要设置BIOS高级模式：[传送门](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh/blob/master/BIOS_Setup/README.md)
 
