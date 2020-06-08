@@ -10,6 +10,14 @@
 
 注意：此系列笔记本电脑没有WiFi白名单，可以更换任意网卡，但强烈不推荐 DW1820A。
 
+## 支持机型
+ - 2018年
+ > Y7000/Y7000P/Y530 全系列型号
+ - 2019年
+ > Y7000/Y700P/Y540/Y545  全系列型号
+ - 2020年
+ > Y7000/Y700P/legion 5i/legion 7 全系列型号
+
 ## 发布
 
 最后发布的版本是 v3.0.2，前往 [Release Page](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh/releases) 下载即可。
